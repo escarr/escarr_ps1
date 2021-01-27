@@ -1,0 +1,76 @@
+header {
+    background-color: lightslategrey;
+    color: lightgoldenrodyellow;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+}
+
+footer {
+    background-color: lightslategrey;
+    color: lightgoldenrodyellow;
+    height: 50px;
+}
+
+footer p {
+    text-align: center;
+    font-size: 24pt;
+}
+
+header h1 {
+    font-size: 50px;
+}
+
+h1, h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header ul{
+    list-style: none;
+    margin-left: auto;
+}
+
+header ul a {
+    color:lightgoldenrodyellow;
+}
+
+h3 a {
+    color: black;
+}
+
+img {
+    width: 15%; 
+    height: 15%;
+    padding: 5px;
+}
+
+body h2 {
+    text-align: center;
+}
+
+nav ul li{
+    display: inline;
+    padding: 10px;
+    font-size: 20px;
+}
+
+#contact-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    font-size: 16pt;
+}
+
+h4 {
+    font-size: 14pt;
+}
+
+h5 {
+    font-size: 12pt;
+}
